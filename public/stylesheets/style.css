@@ -2,8 +2,9 @@ html {
 }
 body {
   background: linear-gradient(to right, #67747e 0%,#56636d 50%,#e0eced 50%,#d0dbde 100%);
-  padding: 50px;
   box-shadow: inset 0 0 10px #45525c;
+  
+  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
