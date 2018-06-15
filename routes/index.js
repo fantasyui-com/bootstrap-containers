@@ -1,5 +1,5 @@
 var express = require('express');
-var generator = require('../../container-generator');
+var generator = require('container-generator');
 var router = express.Router();
 
 /* GET home page. */
