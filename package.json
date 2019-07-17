@@ -6,12 +6,12 @@
   },
   "dependencies": {
     "container-generator": "^1.6.0",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.1.1",
+    "express": "~4.17.1",
     "hbs": "^4.0.4",
-    "http-errors": "~1.6.2",
-    "morgan": "~1.9.0"
+    "http-errors": "~1.7.3",
+    "morgan": "~1.9.1"
   },
   "description": "Bootstrap Container Components. [Bootstrap, Web Application, Server]",
   "main": "app.js",
