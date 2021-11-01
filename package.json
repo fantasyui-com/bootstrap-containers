@@ -2,7 +2,8 @@
   "name": "bootstrap-containers",
   "version": "1.14.0",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
   },
   "dependencies": {
     "container-generator": "^1.12.0",
@@ -20,7 +21,7 @@
     "url": "git+https://github.com/fantasyui-com/bootstrap-containers.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "fantasyui.com <fantasyui.com@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fantasyui-com/bootstrap-containers/issues"
