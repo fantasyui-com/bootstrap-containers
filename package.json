@@ -8,7 +8,7 @@
   "dependencies": {
     "container-generator": "^1.12.0",
     "cookie-parser": "~1.4.4",
-    "debug": "~4.1.1",
+    "debug": "^4.3.4",
     "express": "~4.17.1",
     "hbs": "^4.0.6",
     "http-errors": "~1.7.3",
